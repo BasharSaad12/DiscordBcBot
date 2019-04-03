@@ -23,7 +23,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : Aldazdar[HX1] ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`#bc | WELCOME TO HX1`,"http://twitch.tv/S-F")
+client.user.setGame(`M.A 🖤`,"http://twitch.tv/jrm4")
 client.user.setStatus("dnd")
 });
 
@@ -32,4 +32,4 @@ client.user.setStatus("dnd")
 
 
 
-client.login(" NDcwNzMzMTgyNTY5MDIxNDUw.DvaOuQ.ObMJTzttHCZwdiC7-xJCJzMoVc0 ");
+client.login("NTYzMDYwODQ5NjE5NjMyMTQx.XKT1ig.JALsTwTCZ0ETzE9Becd5k92IbWQ");
